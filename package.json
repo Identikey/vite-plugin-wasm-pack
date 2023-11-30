@@ -10,6 +10,7 @@
     "node_modules/.bin/wasm-pack"
   ],
   "scripts": {
+    "prepare": "npm run build",
     "build": "tsc && tsc -p tsconfig.esm.json",
     "dev": "tsc -w"
   },
