@@ -19,9 +19,6 @@ dependencies:
     version: 0.12.1
 
 devDependencies:
-  '@tsconfig/node12':
-    specifier: ^1.0.9
-    version: 1.0.9
   '@types/fs-extra':
     specifier: ^9.0.13
     version: 9.0.13
@@ -39,10 +36,6 @@ devDependencies:
     version: 2.6.14
 
 packages:
-
-  /@tsconfig/node12@1.0.9:
-    resolution: {integrity: sha512-/yBMcem+fbvhSREH+s14YJi18sp7J9jpuhYByADT2rypfajMZZN4WQ6zBGgBKp53NKmqI36wFYDb3yaMPurITw==}
-    dev: true
 
   /@types/fs-extra@9.0.13:
     resolution: {integrity: sha512-nEnwB++1u5lVDM2UI4c1+5R+FYaKfaAzS4OococimjVm3nQw3TuzH5UNsocrcTBbhnerblyHj4A49qXbIiZdpA==}
